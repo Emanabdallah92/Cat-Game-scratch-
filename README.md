@@ -6,6 +6,7 @@ The game is about a cat chasing 3 mice. The player can control the cat's movemen
 Also, it's important to stay away from the borders inside the game and to watch out for the dog. Anytime you touch any of those two things, the player must go back to the starting point but keep his score as it is.
 
 Level One:
+
 ![image](https://github.com/Emanabdallah92/Cat-Game-scratch-/assets/115192151/88103a8f-befc-408a-9920-0198714273bc)
 In the first level, the cat has to avoid the black borders inside while also achieving the main goal, catching the mice.
 
